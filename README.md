@@ -20,11 +20,7 @@ Privacy Policy and License page for the **LazyShorts** Chrome Extension.
 
 ## 📝 License
 
-This project is dual-licensed under:
-- [MIT License](https://opensource.org/licenses/MIT)
-- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-
-You may choose either license when using this software.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## 👤 Developer
 
